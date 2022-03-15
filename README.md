@@ -10,4 +10,5 @@ O modelo utilizado foi o BERT, obtive acurácia de 0.38, perda 1.82, com valida�
 Os resultados não foram satisfatórios da maneira que eu queria, mas estou aprendendo (muito!) sobre NLP e estou buscando melhorar a acurácia do projeto, ou seja, ainda está inacabado.
 
 Qualquer sugestões, dicas, conselhos sobre como melhorá-lo, sintam-se a vontade para entrar em contato.
+
 LinkedIn: https://www.linkedin.com/in/kjcsilva/
