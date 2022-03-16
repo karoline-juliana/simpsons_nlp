@@ -6,7 +6,7 @@ Case técnico de um Projeto de NLP em um conjunto de dados de frases dos persona
 
 Esse Case Técnico teve como finalidade estimar o personagem mais provável de ter dito uma frase qualquer, que não necessariamente já foi falada na série, sendo estimada pelo modelo.
 
-O modelo utilizado foi o BERT, obtive acurácia de 0.38, perda 1.82, com validação da acurácia de 0.44 e validação da perda de 1.64.
+O modelo utilizado foi o BERT, obtive acurácia de 0.38, perda 1.82, com validação da acurácia de 0.44 e validação da perda de 1.64. O ROC-AUC score foi de 0.75.
 Os resultados não foram satisfatórios da maneira que eu queria, mas estou aprendendo (muito!) sobre NLP e estou buscando melhorar a acurácia do projeto, ou seja, ainda está inacabado.
 
 Qualquer sugestões, dicas, conselhos sobre como melhorá-lo, sintam-se a vontade para entrar em contato.
